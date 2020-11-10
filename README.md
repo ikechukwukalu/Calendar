@@ -1,5 +1,5 @@
 # Calendar
-Get all dates and their corresponding day using php
+Get all dates and their corresponding days using php
 
 ```
 $year = strftime("%Y", time());
